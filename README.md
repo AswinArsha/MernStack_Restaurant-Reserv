@@ -3,7 +3,6 @@
 ```markdown
 # MERN Booking App
 
-StudieBnb is a functional booking application developed using the MERN stack and Tailwind CSS.
 
 ## Project Overview
 
