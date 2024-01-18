@@ -1,8 +1,7 @@
-
+Certainly! I've updated the README file with some formatting improvements and added clarifications. Make sure to replace `your_mongodb_connection_string` with your actual MongoDB connection string from MongoDB Atlas:
 
 ```markdown
 # MERN Booking App
-
 
 ## Project Overview
 
@@ -18,14 +17,14 @@
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/mariangle/mern-booking-app.git
    cd mern-booking-app
    ```
 
-2. Install dependencies for both frontend and backend:
+2. **Install dependencies for both frontend and backend:**
 
    ```bash
    cd frontend
@@ -37,7 +36,7 @@
 
 ### Configuration
 
-1. Create a `.env` file in the `backend` folder and add the following configuration:
+1. **Create a `.env` file in the `backend` folder and add the following configuration:**
 
    ```env
    PORT=4000
@@ -49,7 +48,7 @@
 
 ### Running the Project
 
-1. Start the backend server:
+1. **Start the backend server:**
 
    ```bash
    cd backend
@@ -58,30 +57,28 @@
 
    This will start the server on `http://localhost:4000`.
 
-2. Start the frontend application:
+2. **Start the frontend application:**
 
    ```bash
    cd frontend
    npm start
-or
-    npm run dev
    ```
 
-   This will start the React development server on `http://localhost:3000`.
+   This will start the React development server on `http://localhost:5173`.
 
-Now you can access the application in your web browser at `http://localhost:3000`.
+Now you can access the application in your web browser at `http://localhost:5173`.
 
 ## Adding Data to MongoDB
 
 You can add data to your MongoDB cluster by making reservations through the application or manually adding data using the MongoDB Atlas dashboard.
 
-1. Visit your [MongoDB Atlas Dashboard](https://cloud.mongodb.com/v2/your_cluster_id#/overview).
+1. **Visit your [MongoDB Atlas Dashboard](https://cloud.mongodb.com/v2/your_cluster_id#/overview).**
 
-2. Navigate to the "Collections" tab and select the "Reservations" collection.
+2. **Navigate to the "Collections" tab and select the "Reservations" collection.**
 
-3. Use the "Insert Document" button to manually add reservation data.
+3. **Use the "Insert Document" button to manually add reservation data.**
 
 Feel free to explore the code and customize the application to suit your needs.
 ```
 
-Please note that you should replace `your_mongodb_connection_string` in the `.env` configuration with your actual MongoDB connection string from MongoDB Atlas. Also, make sure your MongoDB cluster allows connections from your IP address. The README assumes that you have set up your project structure with frontend and backend folders. Adjust it accordingly if your project structure is different.
+Feel free to further customize or expand the README to include any additional details or instructions relevant to your project.
