@@ -61,7 +61,7 @@
 
    ```bash
    cd frontend
-   npm start
+   npm run dev
    ```
 
    This will start the React development server on `http://localhost:5173`.
