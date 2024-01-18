@@ -1,4 +1,4 @@
-Certainly! I've updated the README file with some formatting improvements and added clarifications. Make sure to replace `your_mongodb_connection_string` with your actual MongoDB connection string from MongoDB Atlas:
+
 
 ```markdown
 # MERN Booking App
