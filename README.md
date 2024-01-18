@@ -1,4 +1,4 @@
-Certainly! Below is an example README file that you can include in your project. This assumes that your project structure includes separate frontend and backend folders.
+
 
 ```markdown
 # MERN Booking App
