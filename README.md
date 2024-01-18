@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # MERN Booking App
 
 ## Project Overview
