@@ -40,7 +40,7 @@
 
    ```env
    PORT=4000
-   FRONTEND_URL=http://localhost:3000
+   FRONTEND_URL=http://localhost:5173
    MONGO_URI=your_mongodb_connection_string
    ```
 
