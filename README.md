@@ -1,6 +1,3 @@
-
-
-
 # MERN Booking App
 
 ## Project Overview
@@ -36,15 +33,13 @@
 
 ### Configuration
 
-1. **Create a `.env` file in the `backend` folder and add the following configuration:**
+1. **Create a folder `config` and a file inside it called `config.env` in the `backend` folder and add the following configuration:**
 
    ```env
    PORT=4000
    FRONTEND_URL=http://localhost:5173
-   MONGO_URI=your_mongodb_connection_string
+   MONGO_URI=mongodb+srv://aswinmv13:eNgGtKjldwIi891v@cluster0.gyyggbs.mongodb.net/?retryWrites=true
    ```
-
-   Replace `your_mongodb_connection_string` with the connection string for your MongoDB cluster.
 
 ### Running the Project
 
@@ -64,7 +59,9 @@
    npm run dev
    ```
 
-   This will start the React development server on `http://localhost:5173`.
+   > **Note:** open the bakend and frontend folders seperatly and run both at same time.
+
+This will start the React development server on `http://localhost:5173`.
 
 Now you can access the application in your web browser at `http://localhost:5173`.
 
@@ -79,6 +76,8 @@ You can add data to your MongoDB cluster by making reservations through the appl
 3. **Use the "Insert Document" button to manually add reservation data.**
 
 Feel free to explore the code and customize the application to suit your needs.
+
 ```
 
 Feel free to further customize or expand the README to include any additional details or instructions relevant to your project.
+```
