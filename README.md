@@ -38,7 +38,7 @@
    ```env
    PORT=4000
    FRONTEND_URL=http://localhost:5173
-   MONGO_URI=mongodb+srv://aswinmv13:eNgGtKjldwIi891v@cluster0.gyyggbs.mongodb.net/?retryWrites=true
+   MONGO_URI=url
    ```
 
 ### Running the Project
