@@ -59,7 +59,7 @@
    npm run dev
    ```
 
-   > **Note:** open the bakend and frontend folders seperatly and run both at same time.
+   > **Note:** open the backend and frontend folders seperatly and run both at same time.
 
 This will start the React development server on `http://localhost:5173`.
 
