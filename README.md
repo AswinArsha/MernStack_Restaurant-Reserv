@@ -77,7 +77,4 @@ You can add data to your MongoDB cluster by making reservations through the appl
 
 Feel free to explore the code and customize the application to suit your needs.
 
-```
 
-Feel free to further customize or expand the README to include any additional details or instructions relevant to your project.
-```
